@@ -1,0 +1,4 @@
+/*
+Main JS code for Blocks.js
+Will be compiled from all source code files
+*/
